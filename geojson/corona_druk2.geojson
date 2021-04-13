@@ -1,0 +1,23 @@
+var druk = {
+"type": "FeatureCollection",
+"name": "corona_druk2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Locatie": "Beatrixpark", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": "", "Foto": "" }, "geometry": { "type": "Point", "coordinates": [ 4.881707737759034, 52.343080858146642 ] } },
+{ "type": "Feature", "properties": { "Locatie": "Oosterpark", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": "", "Foto": "" }, "geometry": { "type": "Point", "coordinates": [ 4.9202994, 52.3596926 ] } },
+{ "type": "Feature", "properties": { "Locatie": "Rembrandtpark", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": "", "Foto": "" }, "geometry": { "type": "Point", "coordinates": [ 4.8471836, 52.3644639 ] } },
+{ "type": "Feature", "properties": { "Locatie": "Sarphatipark", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": "", "Foto": "" }, "geometry": { "type": "Point", "coordinates": [ 4.896416248391134, 52.354238875272031 ] } },
+{ "type": "Feature", "properties": { "Locatie": "Vondelpark", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": "", "Foto": "" }, "geometry": { "type": "Point", "coordinates": [ 4.86646, 52.357999 ] } },
+{ "type": "Feature", "properties": { "Locatie": "Museumplein", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": null, "Foto": null }, "geometry": { "type": "Point", "coordinates": [ 4.88192589106818, 52.357270120825774 ] } },
+{ "type": "Feature", "properties": { "Locatie": "Vliegenbos", "Druk_Rustig": "Drukker", "Soort": "Bos", "Webpagina": null, "Foto": null }, "geometry": { "type": "Point", "coordinates": [ 4.932305580081297, 52.389130317447055 ] } },
+{ "type": "Feature", "properties": { "Locatie": "Noorderpark", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": null, "Foto": null }, "geometry": { "type": "Point", "coordinates": [ 4.919532773005796, 52.394039694752038 ] } },
+{ "type": "Feature", "properties": { "Locatie": "Noorderpark", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": null, "Foto": null }, "geometry": { "type": "Point", "coordinates": [ 4.923053872143404, 52.39109184431419 ] } },
+{ "type": "Feature", "properties": { "Locatie": "De Hoge Dijk", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": null, "Foto": null }, "geometry": { "type": "Point", "coordinates": [ 4.966705504228201, 52.285967594255219 ] } },
+{ "type": "Feature", "properties": { "Locatie": "De Oeverlanden", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": null, "Foto": null }, "geometry": { "type": "Point", "coordinates": [ 4.824173726577024, 52.336157986477971 ] } },
+{ "type": "Feature", "properties": { "Locatie": "Westerpark ", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": null, "Foto": null }, "geometry": { "type": "Point", "coordinates": [ 4.871074560202212, 52.387154340635021 ] } },
+{ "type": "Feature", "properties": { "Locatie": "Erasmuspark", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": null, "Foto": null }, "geometry": { "type": "Point", "coordinates": [ 4.852149659991262, 52.374882104355301 ] } },
+{ "type": "Feature", "properties": { "Locatie": "Amstelpark", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": null, "Foto": null }, "geometry": { "type": "Point", "coordinates": [ 4.893817683606338, 52.329995203112752 ] } },
+{ "type": "Feature", "properties": { "Locatie": "Martin Luther Kingpark", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": null, "Foto": null }, "geometry": { "type": "Point", "coordinates": [ 4.906856872170111, 52.339659888174836 ] } },
+{ "type": "Feature", "properties": { "Locatie": "Park Frankendael", "Druk_Rustig": "Drukker", "Soort": "Park", "Webpagina": null, "Foto": null }, "geometry": { "type": "Point", "coordinates": [ 4.930912447078606, 52.351054508085809 ] } }
+]
+}
